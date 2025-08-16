@@ -1,0 +1,120 @@
+.logo-img {
+  height: 100px; /* Adjust as needed */
+  width: 20 px;
+}
+ .hero-section {
+      background-image: url('ker1.jpg'); /* Replace with your image */
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      position: relative;
+      color: white;
+    }
+
+    /* Overlay for darker effect (optional) */
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.5); /* dark overlay */
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      top: 50%;
+      transform: translateY(-50%);
+      text-align: center;
+      font-family:'Courier New', Courier, monospace;
+    }
+
+    .navbar {
+      z-index: 3;
+    }
+
+    .navbar a {
+      color: white !important;
+    }
+    .card {
+  margin-bottom: 30px; /* Add vertical space */
+}
+
+.districtpage{
+background-image: url('ker4.jpeg');     /* Replace with your actual image */
+  background-size: cover;                      /* Cover the entire screen */
+  background-repeat: no-repeat;                /* Don't repeat image */
+  background-position: center center;          /* Center the image */
+  background-attachment: fixed;                /* Keeps background fixed while scrolling */
+  margin: 0;
+  padding: 0;
+}
+.thirudetails{
+  background-image: url('ker5.jpeg');     /* Replace with your actual image */
+  background-size: cover;                      /* Cover the entire screen */
+  background-repeat: no-repeat;                /* Don't repeat image */
+  background-position: center center;          /* Center the image */
+  background-attachment: fixed;                /* Keeps background fixed while scrolling */
+  margin: 0;
+  padding: 0;
+}
+.beachpage{
+   background-image: url('bea.jpeg');     /* Replace with your actual image */
+  background-size: cover;                      /* Cover the entire screen */
+  background-repeat: no-repeat;                /* Don't repeat image */
+  background-position: center center;          /* Center the image */
+  background-attachment: fixed;                /* Keeps background fixed while scrolling */
+  margin: 0;
+  padding: 0;
+}
+.musepage{
+  background-image: url('muse.jpeg');     /* Replace with your actual image */
+  background-size: cover;                      /* Cover the entire screen */
+  background-repeat: no-repeat;                /* Don't repeat image */
+  background-position: center center;          /* Center the image */
+  background-attachment: fixed;                /* Keeps background fixed while scrolling */
+  margin: 0;
+  padding: 0;
+}
+.kollamdetails{
+   background-image: url('ker5.jpeg');     /* Replace with your actual image */
+  background-size: cover;                      /* Cover the entire screen */
+  background-repeat: no-repeat;                /* Don't repeat image */
+  background-position: center center;          /* Center the image */
+  background-attachment: fixed;                /* Keeps background fixed while scrolling */
+  margin: 0;
+  padding: 0;
+}
+.pathamdetail{
+     background-image: url('ker5.jpeg');     /* Replace with your actual image */
+  background-size: cover;                      /* Cover the entire screen */
+  background-repeat: no-repeat;                /* Don't repeat image */
+  background-position: center center;          /* Center the image */
+  background-attachment: fixed;                /* Keeps background fixed while scrolling */
+  margin: 0;
+  padding: 0;
+}
+.alapdetail{
+       background-image: url('ker5.jpeg');     /* Replace with your actual image */
+  background-size: cover;                      /* Cover the entire screen */
+  background-repeat: no-repeat;                /* Don't repeat image */
+  background-position: center center;          /* Center the image */
+  background-attachment: fixed;                /* Keeps background fixed while scrolling */
+  margin: 0;
+  padding: 0;
+}
+.kottadetail{
+       background-image: url('ker5.jpeg');     /* Replace with your actual image */
+  background-size: cover;                      /* Cover the entire screen */
+  background-repeat: no-repeat;                /* Don't repeat image */
+  background-position: center center;          /* Center the image */
+  background-attachment: fixed;                /* Keeps background fixed while scrolling */
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
